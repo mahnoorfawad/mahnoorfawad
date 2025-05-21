@@ -1,5 +1,4 @@
 - Hi, I’m @mahnoorfawad
-- I'm a cs student!
 - I’m currently working in machine learning and training models 
 - I'm interested in robotics and artificial intelligence :)
 <!---
